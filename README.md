@@ -21,7 +21,7 @@ If the extension has both comic and manga sources, then add it to both.
 ### Manga/Manhwa/Novels
 | Name               | Repo                               | Github.io                                     |
 |--------------------|-----------------------------------------|------------------------------------------|
-| Inkdex Extensions (0.9) | [https://inkdex.github.io/installation] | [https://github.com/inkdex/extensions]
+| Aidoku Community Maintained Extensions | [https://aidoku-community.github.io/sources/] | [https://github.com/Aidoku-Community/sources]
 | Kakarot Extensions (0.9) | https://karrot0.github.io/KakarotExtension/0.9/stable/ | https://github.com/karrot0/KakarotExtension/ |
 | Sinon's Extensions (0.9) | https://catta1997.github.io/Sinon-Paperback-Extensions/0.9/stable/ | https://github.com/Catta1997/Sinon-Paperback-Extensions |
 | Pirate Vodka Extensions (0.9) | https://read.pirate.vodka/ | https://github.com/LucifersCircle/pirate.vodka-extensions |

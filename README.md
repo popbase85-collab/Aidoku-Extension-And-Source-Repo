@@ -6,7 +6,7 @@ All credit given to the developers of these extensions. I will keep updating thi
 **Please leave any issues on the developer's repo or discord**
 
 ## Installing an extension
-- Install Paperback
+- Install Aidoku
 - Tap on the github.io link below
 - Tap "Add to Aidoku"
 
@@ -21,14 +21,10 @@ If the extension has both comic and manga sources, then add it to both.
 ### Manga/Manhwa/Novels
 | Name               | Repo                               | Github.io                                     |
 |--------------------|-----------------------------------------|------------------------------------------|
-| Aidoku Community Maintained Extensions | [https://aidoku-community.github.io/sources/] | [https://github.com/Aidoku-Community/sources]
-| Kakarot Extensions (0.9) | https://karrot0.github.io/KakarotExtension/0.9/stable/ | https://github.com/karrot0/KakarotExtension/ |
-| Sinon's Extensions (0.9) | https://catta1997.github.io/Sinon-Paperback-Extensions/0.9/stable/ | https://github.com/Catta1997/Sinon-Paperback-Extensions |
-| Pirate Vodka Extensions (0.9) | https://read.pirate.vodka/ | https://github.com/LucifersCircle/pirate.vodka-extensions |
-| Nyzzik's Extensions (0.9) | https://paperback.nyzz.me/ | https://github.com/nyzzik/extensions |
-| Kinso's Extensions (0.9) | https://xdkinso.github.io/KinsoExtension/ | https://github.com/xdKinso/KinsoExtension |
-| The Vodraz's Extensions (0.9) | https://thevodraz.github.io/paperback-extensions/ | https://github.com/TheVodraz/paperback-extensions | 
+| Aidoku Community Maintained Extensions (Big Source List But Missing Atsumaru & Kagane, Repos below have them) | [https://aidoku-community.github.io/sources/] | [https://github.com/Aidoku-Community/sources]
+| Kunihir0 Sources (Adds Atsumaru,Utoon,Webcomics, Violet Scans, Lua Scans) | https://kunihir0.github.io/aidoku-sources/ | https://github.com/kunihir0/aidoku-sources |
+| Amqx Sources (Adds Kagane, Violet Scans, Manga Pill) | https://catta1997.github.io/Sinon-Paperback-Extensions/0.9/stable/ | https://github.com/Catta1997/Sinon-Paperback-Extensions |
+| Legacy Sources (Not maintained anymore but may still work and have a source you need) | https://aidoku.app/add-source-list/?url=https://raw.githubusercontent.com/Skittyblock/aidoku-community-sources/gh-pages/ |
 
-### [Extension Discord](https://discord.gg/inkdex)
 
 

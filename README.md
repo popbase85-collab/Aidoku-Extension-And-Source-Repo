@@ -25,6 +25,7 @@ If the extension has both comic and manga sources, then add it to both.
 | Kunihir0 Sources (Adds Atsumaru,Utoon,Webcomics, Violet Scans, Lua Scans) | https://kunihir0.github.io/aidoku-sources/ | https://github.com/kunihir0/aidoku-sources |
 | Amqx Sources (Adds Kagane, Violet Scans, Manga Pill) | https://amqx.github.io/sources// | https://github.com/Amqx/sources |
 | Yomu Sources (Has Kagane, Atsumaru, Comix, Mangadot, and Mangaball) | https://aidoku.app/add-source-list/?url=https://smexhy.github.io/yomu-aidoku-sources/index.min.json | https://github.com/Smexhy/yomu-aidoku-sources
+| Popmango Sources (Has Mkissa, BunManga, Chikari, KaliScan, KingOfShojo, LikeManga, Vymanga, Valir, Rokari, etc) | https://poppingmangosources.github.io/popmango-aidoku-sources/ | https://github.com/PoppingMangoSources/popmango-aidoku-sources
 | Legacy Sources (Not maintained anymore but may still work and have a source you need) | https://aidoku.app/add-source-list/?url=https://raw.githubusercontent.com/Skittyblock/aidoku-community-sources/gh-pages/ |
 
 
